@@ -82,20 +82,24 @@ J'ai notamment :
 
 ## 🚀 Projets personnels
 
-### 🏠 [MaPeace](https://gitlab.com/Inity-Swayze/mapeace_v101)
+### 🏠 [MaPeace - Frontend](https://gitlab.com/Inity-Swayze/mapeace_v101)
 Plateforme immobilière web & mobile lancée en **Côte d'Ivoire** — recherche d'appartements, géolocalisation, interface propriétaires/locataires.
-`React` `Django` `MySQL` `Mobile`
+`React` `NextJS` `Mobile` `Vercel`
 
-### 🔐 [MyPass](https://github.com/t-Initi/mypass)
+### 🏠 [MaPeace - Backend](https://gitlab.com/Inity-Swayze/mapeace_backend)
+Plateforme immobilière web & mobile lancée en **Côte d'Ivoire** — recherche d'appartements, géolocalisation, interface propriétaires/locataires.
+`Django` `MySQL` `MySQL`
+
+### 🔐 [PassSaver](https://gitlab.com/Inity-Swayze/passsaver)
 Application mobile de gestion de mots de passe avec **chiffrement AES** — stockage local sécurisé, authentification biométrique.
 `Swift` `Android` `AES Encryption`
 
-### 🎯 [LotoHack](https://github.com/t-Initi/lotohack)
+### 🎯 [LotoHack](https://github.com/t-initi/lottery_hack)
 Script de **prédiction de numéros de loterie** basé sur l'analyse statistique et le machine learning.
-`Python` `ML` `Pandas` `NumPy`
+`Python` `ML` `Pandas` `NumPy` `ReactJs` `Claude`
 
-### 🌐 [Initi-Tech](https://github.com/t-Initi/initi-tech)
-Site personnel / portfolio — présentation de mon parcours et de mes projets.
+### 🌐 [Initi-Tech](https://gitlab.com/Inity-Swayze/initi-tech)
+Site personnel / portfolio — présentation de mon parcours et de mes projets. Ajout de mini apps comme Memory Game, CV generator etc
 `React` `ViteJS`
 
 ---
