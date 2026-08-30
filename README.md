@@ -82,7 +82,7 @@ J'ai notamment :
 
 ## 🚀 Projets personnels
 
-### 🏠 [MaPeace](https://github.com/t-Initi/mapeace)
+### 🏠 [MaPeace](https://gitlab.com/Inity-Swayze/mapeace_v101)
 Plateforme immobilière web & mobile lancée en **Côte d'Ivoire** — recherche d'appartements, géolocalisation, interface propriétaires/locataires.
 `React` `Django` `MySQL` `Mobile`
 
