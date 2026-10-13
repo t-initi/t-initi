@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Qui suis-je ?
 
-Ingénieur Logiciel Full-Stack Senior avec **8+ ans d'expérience** sur des projets à fort enjeu technique dans les secteurs **télécoms, santé et data analytics**.
+Ingénieur Logiciel Full-Stack Senior avec **10+ ans d'expérience** sur des projets à fort enjeu technique dans les secteurs **télécoms, santé et data analytics**.
 
 Profil rare combinant **expertise full-stack**, **IA appliquée** (TensorFlow, OpenCV) et **leadership technique** — capable d'intervenir de l'architecture jusqu'au delivery en production.
 
