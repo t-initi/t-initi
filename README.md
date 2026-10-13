@@ -1,6 +1,6 @@
 # 👋 Thierry INE — Ingénieur Logiciel Full-Stack Senior
 
-> **PHP · Python · React · Django · Elasticsearch · TensorFlow · Docker · GCP**
+> **PHP · Python · React · Django · TypeScript · Elasticsearch · TensorFlow · Docker · GCP**
 
 ---
 
@@ -88,15 +88,15 @@ Plateforme immobilière web & mobile lancée en **Côte d'Ivoire** — recherche
 
 ### 🏠 [MaPeace - Backend](https://gitlab.com/Inity-Swayze/mapeace_backend)
 Plateforme immobilière web & mobile lancée en **Côte d'Ivoire** — recherche d'appartements, géolocalisation, interface propriétaires/locataires.
-`Django` `MySQL` `MySQL`
+`Django` `MySQL`
 
 ### 🔐 [PassSaver](https://gitlab.com/Inity-Swayze/passsaver)
 Application mobile de gestion de mots de passe avec **chiffrement AES** — stockage local sécurisé, authentification biométrique.
 `Swift` `Android` `AES Encryption`
 
 ### 🎯 [LotoHack](https://github.com/t-initi/lottery_hack)
-Script de **prédiction de numéros de loterie** basé sur l'analyse statistique et le machine learning.
-`Python` `ML` `Pandas` `NumPy` `ReactJs` `Claude`
+Script de **prédiction de numéros de loterie** basé sur l'analyse statistique (exercice d’analyse statistique) et le machine learning.
+`Python` `ML` `Pandas` `NumPy` `ReactJs`
 
 ### 🌐 [Initi-Tech](https://gitlab.com/Inity-Swayze/initi-tech)
 Site personnel / portfolio — présentation de mon parcours et de mes projets. Ajout de mini apps comme Memory Game, CV generator etc
@@ -122,11 +122,10 @@ Site personnel / portfolio — présentation de mon parcours et de mes projets. 
 
 Je suis disponible pour des **missions freelance longue durée (6 mois+)** en hybride ou full remote.
 
-📧 **atito23initi@outlook.com**
+📧 **www.https://linkedin.com/in/thierry-ine**
 🦊 **GitLab :** [gitlab.com/Inity-Swayze](https://gitlab.com/Inity-Swayze)
-📍 **Paris, France** — Full Remote (1–2j/sem on-site si besoin)
-💶 **TJM : 750 €**
+📍 **Paris, France**
 
 ---
 
-*Disponible à partir du 1er Septembre 2026*
+*Disponible immédiatement*
